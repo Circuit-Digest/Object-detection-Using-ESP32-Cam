@@ -296,11 +296,6 @@ No. The system relies entirely on cloud-based processing. Internet connectivity 
 - 🔗 [GitHub Repository](https://github.com/Circuit-Digest/Object-detection-Using-ESP32-Cam)
 - 🔗 [CircuitDigest Cloud](https://circuitdigest.cloud/)
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute with attribution.
 
 ---
 
