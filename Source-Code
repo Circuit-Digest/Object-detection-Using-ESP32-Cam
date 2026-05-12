@@ -10,7 +10,7 @@ const char* password   = "yourwifipassword";
 const char* serverName = "www.circuitdigest.cloud";
 const char* serverPath = "/api/v1/object-detection/detect";
 const int   serverPort = 443;
-const char* apiKey     = "cd_jre_140326_UkVdeG";
+const char* apiKey     = "YourApiKey";
 const char* classes    = "[]";
 const char* confidence = "0.2";
 
